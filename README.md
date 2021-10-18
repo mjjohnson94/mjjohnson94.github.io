@@ -1,7 +1,7 @@
 paperClip 
 _____________
 
-
+![ladingpage](https://user-images.githubusercontent.com/82873273/137821063-2be44661-5a95-4a25-aa95-0a405298dc96.png)
 
 
 paperClip is a machine learning social media customer senitment analysis application which utilises the following programming languages, tools & libararies:
