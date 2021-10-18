@@ -15,6 +15,8 @@ Tweepy
 GeoPy
 HTML / CSS / JavaScript 
 
+NOTE: To run this appliction, you must clone the directory to your local machine & ensure the latest version of each of the above packages is installed. Heroku was considered for deployment, however the application loading time was too long. 
+
 ____________
 
 
