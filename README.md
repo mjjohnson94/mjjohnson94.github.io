@@ -29,20 +29,12 @@ ____________
 paperClip utilises the VADAR Sentiment Analysis Python libarary, extracting tweets via the Twitter Api which is powered by a Flask application. VADAR sentiment categorises textual data into sentiment categories: Positive, Negative & Neutral. 
 
 
-Although this library is synonymous in the field of machine learning language processeing, it is important to note its limitations which include the modelling's susceptability to sarcasm, jargon & the general variance of human dialect & language. At this stage, machine's are unable to 100% accurately understand human emotion from text, however this technology continues to be developed. 
+Although this library is synonymous in the field of machine learning language processeing, it is important to note its limitations which include the modelling's susceptability to sarcasm, jargon & the general variance of human dialect & language. At this stage, machine's are unable to 100% accurately understand human emotion from text, however technology continues to be developed in this field leading the way for increased accuracy with respects to future Machine Leanring sentiment analysis tools. 
 
 
 _____________
 
 
-
-
-
-
-
-
-
-
-
+If you wish, please clone the directory and run the application via entering your favourite brand or product into the landing page of the application, which in turn will generate a dashboard containing key metrics on that particular subject. 
 
 
