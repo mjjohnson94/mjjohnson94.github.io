@@ -6,13 +6,13 @@ _____________
 
 paperClip is a machine learning social media customer senitment analysis application which utilises the following programming languages, tools & libararies:
 
-Python 
-Numpy
-Pandas
-Flask 
-TwitterAPI
-Tweepy
-GeoPy
+Python, 
+Numpy,
+Pandas,
+Flask,
+TwitterAPI,
+Tweepy,
+GeoPy,
 HTML / CSS / JavaScript 
 
 NOTE: To run this appliction, you must clone the directory to your local machine & ensure the latest version of each of the above packages is installed. Heroku was considered for deployment, however the application loading time was too long. 
