@@ -20,7 +20,7 @@ NOTE: To run this appliction, you must clone the directory to your local machine
 ____________
 
 
-Customer sentiment is the process of understanding how customers think and feel about particular products or brands. Social media, in particular, provides businesses with a vast amount of customer data which can be processed automatically to reach conclusions on consumer emotiveness. 
+Customer sentiment is the process of understanding how customers think and feel about particular products or brands. Social media, in particular, provides businesses with a vast amount of customer data which can be processed automatically to reach conclusions on consumer emotiveness. These conclusions can be used to better inform commerical decisions. 
 
 
 ____________
